@@ -1,3 +1,3 @@
 [0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(D:\dev\eclipse-bluemix\bluemix\bmobjv2\conf\application.conf,D:\dev\eclipse-bluemix\bluemix\bmobjv2\target\scala-2.11\classes\application.conf)[0m
-[0m[[0mdebug[0m] [0m	(D:\dev\eclipse-bluemix\bluemix\bmobjv2\conf\routes,D:\dev\eclipse-bluemix\bluemix\bmobjv2\target\scala-2.11\classes\routes)[0m
+[0m[[0mdebug[0m] [0m	(D:\git\bmobjv2\conf\application.conf,D:\git\bmobjv2\target\scala-2.11\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(D:\git\bmobjv2\conf\routes,D:\git\bmobjv2\target\scala-2.11\classes\routes)[0m

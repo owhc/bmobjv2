@@ -2,3 +2,8 @@ This is your new Play application
 =================================
 
 This file will be packaged with your application, when using `activator dist`.
+
+$activator
+$dist
+$cf push [APP_NAME] -p [PATH]/[PACKAGE].zip -b https://github.com/cloudfoundry/java-buildpack.git
+

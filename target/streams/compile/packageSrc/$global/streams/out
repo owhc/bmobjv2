@@ -1,1 +1,9 @@
-[0m[[0mdebug[0m] [0mJar uptodate: D:\dev\eclipse-bluemix\bluemix\bmobjv2\target\scala-2.11\bmobjv2_2.11-1.0-SNAPSHOT-sources.jar[0m
+[0m[[0minfo[0m] [0mPackaging D:\git\bmobjv2\target\scala-2.11\bmobjv2_2.11-1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  D:\git\bmobjv2\conf\application.conf[0m
+[0m[[0mdebug[0m] [0m	routes[0m
+[0m[[0mdebug[0m] [0m	  D:\git\bmobjv2\conf\routes[0m
+[0m[[0mdebug[0m] [0m	controllers\Application.java[0m
+[0m[[0mdebug[0m] [0m	  D:\git\bmobjv2\app\controllers\Application.java[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
